@@ -1,4 +1,4 @@
-# IT31903_123220_Group18_Stroke-prediction
+# IT3191E_139399_Group13_Stroke-prediction
 
 # About the project
 
